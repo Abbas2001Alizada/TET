@@ -1,7 +1,5 @@
-function Apps () {
-    return (
-        <div>it's added my Abbas ALi Zada</div>
-    )
+function Apps() {
+  return <div>it's added my Abbas ALi Zada</div>;
 }
 
-export default Apps
+export default Apps;
