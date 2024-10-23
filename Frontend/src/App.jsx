@@ -9,6 +9,8 @@ function App() {
       </p>
 
       <Home />
+      <Home />
+      <Home />
     </>
   );
 }
