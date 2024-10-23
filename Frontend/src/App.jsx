@@ -1,3 +1,4 @@
+import Home from "./ddd/Index";
 function App() {
   return (
     <>
@@ -6,6 +7,8 @@ function App() {
         doloribus iste quasi in dolor quisquam assumenda cupiditate sint. Atque
         a veniam nostrum neque, culpa ut quod sit numquam cumque architecto.
       </p>
+
+      <Home />
     </>
   );
 }
