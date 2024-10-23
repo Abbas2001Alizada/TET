@@ -7,7 +7,6 @@ function App() {
         doloribus iste quasi in dolor quisquam assumenda cupiditate sint. Atque
         a veniam nostrum neque, culpa ut quod sit numquam cumque architecto.
       </p>
-
       <Home />
       <Home />
       <Home />
