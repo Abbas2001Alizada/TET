@@ -1,11 +1,13 @@
-import Navbar from "./Components/navbar";
+import Login from "./Components/Login";
+import Home from './Components/Home'
 
-function Hello() {
+function App() {
   return (
     <div>
-      <Navbar/>
-      <h1>Hello, world</h1>
+      <NavbarBar/>
+      <Login />
+      <Home />
     </div>
   );
 }
-export default Hello;
+export default App;
