@@ -1,10 +1,14 @@
-function Hello() {
+import Home from "./Components/Home";
+import NavBar from "./Components/navBar";
+import Login from "./Components/Login";
+
+function App() {
   return (
     <div>
-      <h1>Hello, word</h1>
-      <h1>Hello, word</h1>
-      <h1>Hello, word</h1>
+      <NavBar />
+      <Login />
+      <Home />
     </div>
   );
 }
-export default Hello;
+export default App;
