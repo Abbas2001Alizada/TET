@@ -28,7 +28,7 @@ const useStyles = makeStyles({
   },
 });
 
-export const NavbarBar = () => {
+export const Navbar = () => {
   const [btnColor, setBtnColor] = useState("error");
   const classes = useStyles();
   return (
